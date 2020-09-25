@@ -1,1 +1,5 @@
-mkdir -p $1/books/notes && mkdir $1/books/exercises && touch $1/books/info
+mkdir $1 && touch $1/info
+
+echo "mkdir -p \$1/exercises && mkdir \$1/notes" > $1/mkbook.sh
+
+
