@@ -1,0 +1,6 @@
+
+* Notes
+** For symbolic links, can maybe use nnn to let the user to manually browse to the location of the file and then upon selection have nnn pass back the location.
+** Could have an option to either edit notes or exercises in emacs or vim and read pdfs in zathura. In the first case we have something of the form $EDITOR $file, and then in the second $READER $file... 
+** Might be able to use environmental variables for defaults.
+** Really want to use ncurses...
