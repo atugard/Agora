@@ -1,1 +1,1 @@
-# open university (doesnt work yet)
+# open university (doesnt work)
