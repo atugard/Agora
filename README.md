@@ -1,1 +1,1 @@
-# Agora
+# Ncurses open university. 
