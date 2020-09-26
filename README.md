@@ -1,1 +1,1 @@
-#  ncurses tool to help in organizing learning materials.
+# open university. the idea is to let the user set up something akin to a course with all the relevant material for themselves, as to help in structuring autodidactic learning. the first step is to copy the official institutions, just to get an idea at how to go about structuring this, but then alternate ways of doing this should be explored. it'd be interesting to see if this could be a way to liberalize education without using official channels. 
